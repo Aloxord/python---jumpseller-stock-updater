@@ -59,9 +59,6 @@ def update_quantity():
 	response = request("csv")
 	#########ZOHO#############
 
-	# user : Rurdaneta@smartctl.co
-	# pass : 86GIuV2P2Y4E
-
 	authtoken = "****************************"
 	organization_id = "*********"
 
